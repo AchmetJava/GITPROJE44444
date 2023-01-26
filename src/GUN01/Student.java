@@ -6,5 +6,7 @@ public class Student {
 
 
         System.out.println("task 2 yapildi TAHA");
+
+        System.out.println("merhabaww");
     }
 }
